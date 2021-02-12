@@ -1,6 +1,6 @@
 //OBJECTIVES
 -create a popup modal that displays an image
--when a card is clicked, the modal is openned and displays the image attached to the card
+-when a card is clicked, the modal is openned and displays the image attached to the card (look at css to see what's available)
 
 
 
