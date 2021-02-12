@@ -1,0 +1,19 @@
+//OBJECTIVES
+-create a popup modal that displays an image
+-when a card is clicked, the modal is openned and displays the image attached to the card
+
+
+
+
+
+
+
+
+
+
+
+
+
+-create a container to store buttons for loading more images (use the id of 'load-more-btns')
+-create at least 2 buttons with the number of how many images each button should load
+-if no more images are available, remove buttons and let the user know there are no more available
